@@ -1,0 +1,57 @@
+.web-1920-13 {
+  align-items: flex-start;
+  background-color: var(--athens-gray);
+  display: flex;
+  height: 1150px;
+  overflow: hidden;
+  width: 1920px;
+  zoom: 0.7;
+}
+
+.briefcase{
+  width: 42px;
+  height: 42px;
+  align-self: center;
+  margin-top: 3px;
+  object-fit: cover;
+} 
+
+.searchgreen{
+  width: 42px;
+  height: 42px;
+  align-self: center;
+  margin-top: 3px;
+  object-fit: cover;
+  
+}
+.home-green{
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+}
+
+.userprofile-green{
+  width: 42px;
+  height: 42px;
+  margin-top: 1px;
+  margin-right: 1px;
+  object-fit: cover;
+}
+
+.settings-green{
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+  margin-left:9px;
+}
+.headercss {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 90px;
+  overflow: hidden;
+  padding: 42px 0;
+  width: 100%;
+  zoom: 0.7;
+}

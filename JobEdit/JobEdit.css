@@ -1,0 +1,17 @@
+.web-1920-16 {
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    height: 1300px;
+    overflow: hidden;
+    padding: 42px 0;
+    width: 100%;
+    zoom: 0.7;
+  }
+  
+  .job-card {
+    display: flex;
+    flex-direction: row;
+  }
+  
